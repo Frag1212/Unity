@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ee373a47c5fdd6e43be43eab4b0d63ba
+timeCreated: 1469646857
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DeathCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
